@@ -1,4 +1,5 @@
-Yeay! I study Git, and it is fun.
+Yeay! I study Git, and it is fun but it is a bit complex.
+
 
 
 
